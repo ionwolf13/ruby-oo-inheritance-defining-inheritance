@@ -66,7 +66,7 @@ class Car < Vehicle
 end
 ```
 
-We use the `<` to inherit the `Car` class from `Vehicle`. Notice that there are *no methods defined in the `Car` class*.
+We use the `<` to inherit the `Car`learn class from `Vehicle`. Notice that there are *no methods defined in the `Car` class*.
 
 Run the test suite again and you'll see that you are passing a number of tests for the `Car` class.
 
